@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390250489382",
+    "project_id": "brochillassignment",
+    "storage_bucket": "brochillassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390250489382:android:2deec4c464e01f43f568e7",
+        "android_client_info": {
+          "package_name": "com.aamirashraf.brochillassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390250489382-tc7q4u9pbcv1n7d0d3rmm8ci9glhjbhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQtTSFnPdfVsCwtxdXznqlIgJ1hXOZRzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390250489382-tc7q4u9pbcv1n7d0d3rmm8ci9glhjbhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
